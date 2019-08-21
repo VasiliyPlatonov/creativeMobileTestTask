@@ -11,6 +11,7 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+**.dat
 
 ### STS ###
 .apt_generated
